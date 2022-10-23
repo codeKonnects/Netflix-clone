@@ -1,5 +1,4 @@
-https://netflix-clone-bfcf2.web.app/
-
+https://netflix-clone-6f3bd.web.app
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
